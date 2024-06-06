@@ -146,16 +146,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-'''
-Improvements that can be made: 
-
-- The code should run multiple times and the results must be compared for each variable. 
-Where the value that is repeated max times is considered as correct value.
-
-- More variables can be added **ADD THE LIST HERE**
-
-- Modify the prompt to scrape tabled details and save to variables
-
-
-'''
