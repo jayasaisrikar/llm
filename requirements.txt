@@ -1,0 +1,7 @@
+PyPDF2
+langchain_community
+langchain-google-genai
+google-generativeai
+python-dotenv
+pandas
+numpy
