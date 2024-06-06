@@ -101,7 +101,7 @@ def user_input(user_question, chat_history):
 def main():
     """Main function to run the app."""
     # Replace with your own PDF files
-    pdf_docs = ["sample 4.pdf","sample 3.pdf"]
+    pdf_docs = ["sample1.pdf"]
     raw_text = get_pdf_text(pdf_docs)
     
     if raw_text is None:
